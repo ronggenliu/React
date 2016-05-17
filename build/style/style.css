@@ -1,0 +1,43 @@
+.swap-search-button {
+  color: #DDDDEE;
+  background-color: #335599;
+}
+
+.swap-detail-button{
+  color: #DDDDEE;
+  background-color: #335599;
+  margin: 10px;
+}
+
+
+.sme-header {
+  color: #DDDDEE;
+  background-color: #888899;
+  padding: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 1.5em;
+  word-spacing: 5px;
+}
+
+.sme-search-bar {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.cusip-select {
+  width: 100%;
+}
+
+.sme-swap-detail {
+  color: #343434;
+  background-color: #9999BB;
+  padding: 100px;
+  margin-bottom: 5px;
+}
+
+.sme-swap-detail-title{
+  font-size: 1em;
+  font-weight: bold;
+  margin-top: 20px;
+}
